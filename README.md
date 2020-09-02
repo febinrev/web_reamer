@@ -40,12 +40,16 @@
 Endpoint extraction
 ![USAGE](https://github.com/febinrev/web_reamer/raw/master/screenshots/wrlink.png)
 ![USAGE](https://github.com/febinrev/web_reamer/raw/master/screenshots/wrlink2.png)
+
 Subdomain Brute-force
 ![USAGE](https://github.com/febinrev/web_reamer/raw/master/screenshots/wrsub.png)
+
 parameter enumeration
 ![USAGE](https://github.com/febinrev/web_reamer/raw/master/screenshots/wrparam.png)
+
 Targeted Wordlist
 ![USAGE](https://github.com/febinrev/web_reamer/raw/master/screenshots/wrlist.png)
+
 Word Analysis
 ![USAGE](https://github.com/febinrev/web_reamer/raw/master/screenshots/wranalyze.png)
 
